@@ -1,2 +1,0 @@
-camera_process
--DCATKIN_DEVEL_PREFIX=/home/cerdas/hand_gesture/devel -DCMAKE_INSTALL_PREFIX=/home/cerdas/hand_gesture/install -G Unix Makefiles
