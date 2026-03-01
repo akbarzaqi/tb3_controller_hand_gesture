@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
 
+# author : Akbar Zaqi Fiktarizaen
+# 2026
+
 import rospy 
 from sensor_msgs.msg import Image 
 from camera_process.msg import Message

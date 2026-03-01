@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
 
+# author : Akbar Zaqi Fiktarizaen
+# 2026
+
 import rospy 
 from camera_process.msg import Message
 from geometry_msgs.msg import Twist
